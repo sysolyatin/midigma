@@ -10,7 +10,7 @@
 - Newtonsoft.Json - для работы с форматом JSON
 - WebSocketSharp - для связи с пультом по websocket
 
-Отдельное спасибо @rain917 за содержимое директории "gma": файлы MA2Connector.cs, MA2Playbacks.cs и MATypes.cs
+Отдельное спасибо [@rain917](https://github.com/rain917) за содержимое директории "gma": файлы MA2Connector.cs, MA2Playbacks.cs и MATypes.cs
 
 ## Полезные ссылки
 - [Сайт приложения](https://midigma.com)
