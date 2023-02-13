@@ -15,3 +15,6 @@
 ## Полезные ссылки
 - [Сайт приложения](https://midigma.com)
 - [Чат пользователей в телеграме](https://t.me/midi2gma)
+
+
+![Made in Russia](https://raw.githubusercontent.com/sysolyatin/midigma/main/website/assets/img/made-in-russia-sign-ru.svg)
