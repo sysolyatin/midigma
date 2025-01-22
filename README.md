@@ -12,9 +12,5 @@
 
 Отдельное спасибо [@rain917](https://github.com/rain917) за содержимое директории "gma": файлы MA2Connector.cs, MA2Playbacks.cs и MATypes.cs
 
-## Полезные ссылки
-- [Сайт приложения](https://midigma.com)
-- [Чат пользователей в телеграме](https://t.me/midi2gma)
-
 
 ![Made in Russia](https://raw.githubusercontent.com/sysolyatin/midigma/main/website/assets/img/made-in-russia-sign-ru.svg)
